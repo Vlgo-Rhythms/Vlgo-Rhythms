@@ -15,7 +15,7 @@ Hi Programmers..<br>Welcome to my corner of GitHub.<br>I'm Fulltime Learner and 
 ### ✍️ Vlgo_Rhythms Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-💬 Let's Connect
+## 💬 Let's Connect:
 
 * GitHub : <a href="https://github.com/Vlgo-Rhythms" target="_blank">Here!</a>
 
