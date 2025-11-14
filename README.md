@@ -26,7 +26,7 @@ I'm Fulltime Learner and open-source contributor. I'm here to demystify web deve
 ### ✍️ Vlgo_Rhythms Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-## 💬 Let's Connect:
+## 💬 How to reach us:
 * GitHub : <a href="https://github.com/Vlgo-Rhythms" target="_blank">Here!</a>
 
 
